@@ -1,0 +1,1 @@
+{"objCalcs": [{"a": 60, "b": 30, "somar": 90, "subr": 30, "multr": 1800, "divr": 2}, {"a": 15, "b": 5, "somar": 20, "subr": 10, "multr": 75, "divr": 3}, {"a": 12, "b": 24, "somar": 36, "subr": -12, "multr": 288, "divr": 0.5}]}
